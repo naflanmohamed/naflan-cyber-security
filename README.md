@@ -18,9 +18,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Analysis of Network Hardening                 |  <a href="https://docs.google.com/document/d/1catObRrg6WoS2yjkFkyQg2mXJnM7CSDU/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
 | Analyze Network Attacks                       |  <a href="https://docs.google.com/document/d/1vysVUxGgVHY4seaDn_mVidj1XyF7ft4H/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
 | Analyze Network Layer Communication           |  <a href="https://docs.google.com/document/d/1Jha1FLuxHILv6DIrgMNMOTmWcnSSedPG/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
-| Apply OS Hardening Techniques                 |<a href="https://docs.google.com/document/d/1Lc2fOt2by4LVWTqUaVcighy_v9NLdvTT/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
+| Apply OS Hardening Techniques                 |  <a href="https://docs.google.com/document/d/1Lc2fOt2by4LVWTqUaVcighy_v9NLdvTT/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
 | NIST Cybersecurity Framework to Respond to a Security Incident    |<a href="https://docs.google.com/document/d/1mroLux4aXj_SiQAlt_Fxn3LGnYKlAaoh/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
-| Scripting and Automation for Threat Mitigation |<a href="">Report</a>|
+| Apply filters to SQL queries |<a href="https://docs.google.com/document/d/1zCKWjrUaB93u3D10kKRzFTdJCt4zIdZT/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
+|Linux commands to manage file permissions      |  <a href="https://docs.google.com/document/d/1WekNNn1tDxefrvfxp1AOBo5Rt9AyYIl2/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>
 
 ## Tools
 <div>
