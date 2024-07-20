@@ -32,6 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   </ul>
 </div>
 
+<!--
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -52,6 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+-->
 ## Certifications
 
 <div>
