@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conduct a security audit                      | Report|
+| security audit                                | <a href="https://docs.google.com/document/d/1QZcPj5MIv0UExMcHhj0b7AtBxKC1OBVy/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
 | SIEM Implementation and Log Analysis          | Detection Lab|
 | Network Traffic Monitoring and Attack Detection |Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
