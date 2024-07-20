@@ -61,5 +61,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Security Audit
+- Analysis of Network Hardening
+- Analyze Network Attacks
+- Analyze Network Layer Communication
+- Apply OS Hardening Techniques
+- NIST Cybersecurity Framework to Respond to a Security Incident
+- Apply filters to SQL queries
+- Linux commands to manage file permissions
