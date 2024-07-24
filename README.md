@@ -21,7 +21,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Apply OS Hardening Techniques                 |  <a href="https://docs.google.com/document/d/1Lc2fOt2by4LVWTqUaVcighy_v9NLdvTT/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
 | NIST Cybersecurity Framework to Respond to a Security Incident    |<a href="https://docs.google.com/document/d/1mroLux4aXj_SiQAlt_Fxn3LGnYKlAaoh/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
 | Apply filters to SQL queries |<a href="https://docs.google.com/document/d/1zCKWjrUaB93u3D10kKRzFTdJCt4zIdZT/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
-|Linux commands to manage file permissions      |  <a href="https://docs.google.com/document/d/1WekNNn1tDxefrvfxp1AOBo5Rt9AyYIl2/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>
+|Linux commands to manage file permissions      |  <a href="https://docs.google.com/document/d/1WekNNn1tDxefrvfxp1AOBo5Rt9AyYIl2/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
+|Home Asset inventory                           |  <a href="https://docs.google.com/spreadsheets/d/1qXqvieVHhtWkgD9GtTQ7sf5MZ-y5rDOO/edit?usp=sharing&ouid=116778263239899438357&rtpof=true&sd=true">Report</a>|
 
 ## Tools
 <div>
